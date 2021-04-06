@@ -30,7 +30,7 @@
     "prod:compile:status": "yarn prod:compile --stats-out ./webpack-stats.json"
   },
   "engines": {
-    "node": ">= v10.24.0"
+    "node": ">= v14.16.1"
   },
   "devDependencies": {
     "@statusfy/common": "1.0.0-alpha.0",
